@@ -1,0 +1,9 @@
+# Ignore temporary files
+*.zip
+*.log
+*.tmp
+__pycache__/
+*.evtx
+DockerDesktop*
+HoneypotShare/
+
